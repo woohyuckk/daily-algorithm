@@ -19,7 +19,7 @@
     <td>2025.02.03</td>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">K번째수</a></td>
     <td>Level 1</td>
-    <td><a href="">나의 풀이</a></td>
+    <td><a href="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%201/001.%20K%EB%B2%88%EC%A7%B8%EC%88%98.js">나의 풀이</a></td>
   </tr>
   <tr>
     <td>2025.02.03</td>
