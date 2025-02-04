@@ -25,7 +25,7 @@
     <td>2025.02.03</td>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">가장 큰 수 </a></td>
     <td>Level 2</td>
-    <td><a href="">나의 풀이</a></td>
+    <td><a href="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%202/001.%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.js">나의 풀이</a></td>
   </tr>
 </tbody>
   
