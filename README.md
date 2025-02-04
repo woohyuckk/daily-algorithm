@@ -23,8 +23,8 @@
   </tr>
   <tr>
     <td>2025.02.03</td>
-    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">K번째수</a></td>
-    <td>Level 1</td>
+    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">가장 큰 수 </a></td>
+    <td>Level 2</td>
     <td><a href="">나의 풀이</a></td>
   </tr>
 </tbody>
