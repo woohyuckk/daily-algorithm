@@ -44,7 +44,7 @@
     <td>2025.02.06</td>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42586">기능 개발 </a></td>
     <td>Level 2</td>
-    <td><a href="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%202/002.%20H-Index.js">나의 풀이</a></td>
+    <td><a href="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%202/003.%20%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.js">나의 풀이</a></td>
   </tr>
 </tbody>
   
