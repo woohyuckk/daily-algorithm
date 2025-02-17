@@ -1,4 +1,3 @@
-
 ### Algorigthm
 
 **Programmers 알고리즘 문제입니다.**
@@ -14,6 +13,28 @@
 </tr>
 </thead>
 <tbody>
+  <tr>
+  <td rowspan="4">기본문제</td>
+  <td rowspan="4">2025.01.01~31</td>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120803">두 수의차</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+  <tr>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120807">숫자 비교하기</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+  <tr>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120820">나이 출력</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+    <tr>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120806">두 수의 나눗셈</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
   <tr>
     <td rowspan="3">정렬</td>
     <td>2025.02.03</td>
