@@ -14,8 +14,8 @@
 </thead>
 <tbody>
   <tr>
-  <td rowspan="4">기본문제</td>
-  <td rowspan="4">2025.01.01~31</td>
+  <td rowspan="17">기본문제</td>
+  <td rowspan="17">2025.01.01~31</td>
   <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120803">두 수의차</a></td>
   <td>Level 0</td>
   <td><a href ="">나의 풀이</a></td>
@@ -57,6 +57,64 @@
   <td>Level 0</td>
   <td><a href ="">나의 풀이</a></td>
   </tr>
+            <tr>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120830">양꼬치
+</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+            <tr>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120831">짝수의 합
+</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+              <tr>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120802">두 수의 합
+</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+                <tr>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120903">배열의 유사도
+</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+                  <tr>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120814">피자 나눠먹기(1)
+</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+                  <tr>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/181933">flag에 따라 다른 값 반환하기
+</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+                    <tr>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/181936">공배수
+</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+                      <tr>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120809">배열 두 배 만들기
+</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+                        <tr>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120811">중앙값
+</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+
+  
+  
+  
   
   <tr>
     <td rowspan="3">정렬</td>
