@@ -35,6 +35,29 @@
   <td>Level 0</td>
   <td><a href ="">나의 풀이</a></td>
   </tr>
+      <tr>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120804">두 수의 곱</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+        <tr>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120805">몫 구하기
+</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+        <tr>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120817">배열의 평균값</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+          <tr>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120829">각도기
+</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+  
   <tr>
     <td rowspan="3">정렬</td>
     <td>2025.02.03</td>
