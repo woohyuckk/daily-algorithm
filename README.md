@@ -2,6 +2,11 @@
 
 **Programmers 알고리즘 문제입니다.**
 
+<!--     <tr>
+  <td><a href= ""></a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr> -->
 <table>
   <thead>
 <tr>
@@ -32,6 +37,21 @@
   </tr>
     <tr>
   <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120806">두 수의 나눗셈</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+    <tr>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120810">나머지 구하기</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+    <tr>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120815">피자 나눠 먹기 (2)</a></td>
+  <td>Level 0</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+    <tr>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120808">분수의 덧셈
+</a></td>
   <td>Level 0</td>
   <td><a href ="">나의 풀이</a></td>
   </tr>
@@ -66,6 +86,14 @@
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42586">기능 개발 </a></td>
     <td>Level 2</td>
     <td><a href="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%202/003.%20%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.js">나의 풀이</a></td>
+  </tr>
+  <tr>
+      <td rowspan="1">완전분석</td>
+    <td>2025.02.20</td>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/86491">최소직사각형
+</a></td>
+  <td>Level 1</td>
+  <td><a href ="">나의 풀이</a></td>
   </tr>
 </tbody>
   
