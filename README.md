@@ -170,11 +170,17 @@
     <td><a href="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%202/003.%20%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.js">나의 풀이</a></td>
   </tr>
   <tr>
-      <td rowspan="1">완전분석</td>
+      <td rowspan="2">완전분석</td>
     <td>2025.02.20</td>
   <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/86491">최소직사각형
 </a></td>
   <td>Level 1</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+  <tr>
+    <td>2025.02.21</td>
+    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840">모의고사</a></td>
+      <td>Level 1</td>
   <td><a href ="">나의 풀이</a></td>
   </tr>
 </tbody>
