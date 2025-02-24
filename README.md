@@ -181,7 +181,7 @@
     <td>2025.02.21</td>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840">모의고사</a></td>
       <td>Level 1</td>
-  <td><a href ="">나의 풀이</a></td>
+  <td><a href ="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%201/004.%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js">나의 풀이</a></td>
   </tr>
     <tr>
     <td>2025.02.24</td>
