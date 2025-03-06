@@ -19,8 +19,8 @@
 </thead>
 <tbody>
   <tr>
-  <td rowspan="21">기본문제</td>
-  <td rowspan="21">2025.01.01~31</td>
+  <td rowspan="23">LV.0</td>
+  <td rowspan="23">2025.01.01~</td>
   <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/120803">두 수의차</a></td>
   <td>Level 0</td>
   <td><a href ="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%200/001.%20%EB%91%90%20%EC%88%98%EC%9D%98%20%EC%B0%A8.js">나의 풀이</a></td>
@@ -137,6 +137,18 @@
           <td>Level 0</td>
           <td><a href="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%200/018.%20%EC%A7%9D%EC%88%98%EB%8A%94%20%EC%8B%AB%EC%96%B4%EC%9A%94.js">나의 풀이</a></td>
         </tr>
+          <tr>
+          <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/181848">문자열 정수로 변환하기
+          </a></td>
+          <td>Level 0</td>
+          <td><a href="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%200/023.%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.js">나의 풀이</a></td>
+        </tr>
+          <tr>
+          <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/181937">N의 배수
+          </a></td>
+          <td>Level 0</td>
+          <td><a href="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%200/022.%20n%EC%9D%98%20%EB%B0%B0%EC%88%98.js">나의 풀이</a></td>
+        </tr>
   <tr>
     <td rowspan="3">정렬</td>
     <td>2025.02.03</td>
@@ -157,7 +169,7 @@
     <td><a href="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%202/002.%20H-Index.js">나의 풀이</a></td>
   </tr>
   <tr>
-    <td rowspan="2">스택</td>
+    <td rowspan="4">스택/큐</td>
     <td>2025.02.05</td>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12906">같은 숫자는 싫어요</a></td>
     <td>Level 1</td>
@@ -168,6 +180,18 @@
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42586">기능 개발 </a></td>
     <td>Level 2</td>
     <td><a href="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%202/003.%20%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.js">나의 풀이</a></td>
+  </tr>
+      <tr>
+    <td>2025.02.27</td>
+    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587">프로세스 </a></td>
+    <td>Level 2</td>
+    <td><a href="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%202/005.%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.js">나의 풀이</a></td>
+  </tr>
+      <tr>
+    <td>2025.02.28</td>
+    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">올바른 괄호 </a></td>
+    <td>Level 2</td>
+    <td><a href="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%202/004.%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.js">나의 풀이</a></td>
   </tr>
   <tr>
       <td rowspan="3">완전탐색</td>
