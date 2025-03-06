@@ -213,6 +213,14 @@
       <td>Level 1</td>
   <td><a href ="">나의 풀이</a></td>
   </tr>
+  <tr>
+      <td rowspan="1">그리디</td>
+    <td>2025.03.06</td>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/42862">체육복
+</a></td>
+  <td>Level 1</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
 </tbody>
   
 </table>
