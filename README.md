@@ -214,11 +214,18 @@
   <td><a href ="">나의 풀이</a></td>
   </tr>
   <tr>
-      <td rowspan="1">그리디</td>
+      <td rowspan="2">그리디</td>
     <td>2025.03.06</td>
   <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/42862">체육복
 </a></td>
   <td>Level 1</td>
+  <td><a href ="">나의 풀이</a></td>
+  </tr>
+  <tr>
+    <td>2025.03.07</td>
+  <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/42860">조이스틱
+</a></td>
+  <td>Level 2</td>
   <td><a href ="">나의 풀이</a></td>
   </tr>
 </tbody>
