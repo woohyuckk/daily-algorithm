@@ -235,6 +235,13 @@
   <td>Level 2</td>
   <td><a href ="">나의 풀이</a></td>
   </tr>
+  <tr>
+    <td rowspan="1">DFS/BFS</td>
+    <td>2025.03.12</td>
+    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a></td>
+    <td>Level 2</td>
+    <td><a href="">나의 풀이</a></td>
+  </tr>
 </tbody>
   
 </table>
