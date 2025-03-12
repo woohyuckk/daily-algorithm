@@ -8,4 +8,31 @@ function solution(prices) {
 }
 
 
-// 시간복잡도가 높음 
+// 시간복잡도가 높음
+
+
+function solution(prices) {
+  const answer = new Array(prices.length).fill(0);
+  const stack = [];
+
+  for (let i = 0; i < prices.length; i++) {
+      // 스택의 마지막 값이 현재 가격보다 크면, 떨어진 시점이므로 pop
+      for (let j = stack.length - 1; j >= 0; j--) {
+          const top = stack[j];
+          if (prices[top] > prices[i]) {
+              answer[top] = i - top;
+              stack.pop();
+          }
+      }
+      stack.push(i);
+  }
+
+  // 스택에 남아있는 값들은 끝까지 가격이 떨어지지 않은 것
+  stack.forEach(index => {
+      answer[index] = prices.length - 1 - index;
+  });
+
+  return answer;
+}
+
+// 시간복잡도 짧음
