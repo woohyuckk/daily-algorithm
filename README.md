@@ -169,7 +169,7 @@
     <td><a href="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%202/002.%20H-Index.js">나의 풀이</a></td>
   </tr>
   <tr>
-    <td rowspan="4">스택/큐</td>
+    <td rowspan="5">스택/큐</td>
     <td>2025.02.05</td>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12906">같은 숫자는 싫어요</a></td>
     <td>Level 1</td>
@@ -193,6 +193,13 @@
     <td>Level 2</td>
     <td><a href="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%202/004.%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.js">나의 풀이</a></td>
   </tr>
+        <tr>
+    <td>2025.03.11</td>
+    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42584">주식가격 </a></td>
+    <td>Level 2</td>
+    <td><a href="">나의 풀이</a></td>
+  </tr>
+  
   <tr>
       <td rowspan="3">완전탐색</td>
     <td>2025.02.20</td>
