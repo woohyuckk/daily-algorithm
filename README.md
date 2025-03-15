@@ -149,6 +149,12 @@
           <td>Level 0</td>
           <td><a href="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%200/022.%20n%EC%9D%98%20%EB%B0%B0%EC%88%98.js">나의 풀이</a></td>
         </tr>
+          <tr>
+          <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/77884">약수의 개수와 덧셈
+          </a></td>
+          <td>Level 1</td>
+          <td><a href="">나의 풀이</a></td>
+        </tr>
   <tr>
     <td rowspan="3">정렬</td>
     <td>2025.02.03</td>
