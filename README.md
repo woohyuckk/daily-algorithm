@@ -197,7 +197,7 @@
     <td>2025.03.11</td>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42584">주식가격 </a></td>
     <td>Level 2</td>
-    <td><a href="">나의 풀이</a></td>
+    <td><a href="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%202/007.%20%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.js">나의 풀이</a></td>
   </tr>
   
   <tr>
@@ -206,7 +206,7 @@
   <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/86491">최소직사각형
 </a></td>
   <td>Level 1</td>
-  <td><a href ="">나의 풀이</a></td>
+  <td><a href ="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%201/003.%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.js">나의 풀이</a></td>
   </tr>
   <tr>
     <td>2025.02.21</td>
@@ -226,14 +226,21 @@
   <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/42862">체육복
 </a></td>
   <td>Level 1</td>
-  <td><a href ="">나의 풀이</a></td>
+  <td><a href ="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%201/006.%20%EC%B2%B4%EC%9C%A1%EB%B3%B5.js">나의 풀이</a></td>
   </tr>
   <tr>
     <td>2025.03.07</td>
   <td><a href= "https://school.programmers.co.kr/learn/courses/30/lessons/42860">조이스틱
 </a></td>
   <td>Level 2</td>
-  <td><a href ="">나의 풀이</a></td>
+  <td><a href ="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%202/006.%20%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.js">나의 풀이</a></td>
+  </tr>
+  <tr>
+    <td rowspan="1">DFS/BFS</td>
+    <td>2025.03.12</td>
+    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a></td>
+    <td>Level 2</td>
+    <td><a href="https://github.com/woohyuckk/daily-algorithm/blob/main/Level%202/008.%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.js">나의 풀이</a></td>
   </tr>
 </tbody>
   
