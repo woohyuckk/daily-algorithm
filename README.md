@@ -156,7 +156,8 @@
           <td>Level 0</td>
           <td><a href="">나의 풀이</a></td>
         </tr>
-                 <tr>
+          <tr>
+          <td rowspan='2'>LV.1</td>
           <td>2025.03.18</td>
           <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12935"> 제일 작은 수 제거하기
           </a></td>
@@ -164,7 +165,6 @@
           <td><a href="">나의 풀이</a></td>
         </tr>
           <tr>
-          <td>LV.1</td>
           <td>2025.03.14</td>
           <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/77884">약수의 개수와 덧셈
           </a></td>
